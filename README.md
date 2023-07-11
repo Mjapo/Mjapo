@@ -32,6 +32,9 @@ Sou Marcelo ishida Takeya Cientista de Dados apaixonado por análise e visualiza
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Contato
 
 Você pode me encontrar em várias plataformas. Vamos nos conectar!
