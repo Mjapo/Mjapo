@@ -31,9 +31,7 @@ Sou Marcelo ishida Takeya Cientista de Dados apaixonado por análise e visualiza
 
 ## ⭐️ Deixe uma estrela
 
-Se você achou meu perfil interessante, ficaria muito grato se você pudesse deixar uma estrela no repositório.
-
-[![Estrela no GitHub](https://img.shields.io/github/stars/seu-usuario/seu-repositorio?style=social)](https://github.com/seu-usuario/seu-repositorio)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
 
 
 
