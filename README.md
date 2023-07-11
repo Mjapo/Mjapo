@@ -28,11 +28,9 @@ Sou Marcelo ishida Takeya Cientista de Dados apaixonado por análise e visualiza
 - [Projeto de Dados SEMANTIX ](https://github.com/Mjapo/ProjetoDados)
 - [Projeto com SQL ](https://github.com/Mjapo/ProjetoCreditoSql)
 
-  
-
-![Gráfico 1](https://github.com/SeuNome/SeuNome/blob/main/chart1.png)
-![Gráfico 2](https://github.com/SeuNome/SeuNome/blob/main/chart2.png)
-![Gráfico 3](https://github.com/SeuNome/SeuNome/blob/main/chart3.png)
+  <div align="center">
+  <img src="https://github.com/SeuNome/SeuNome/blob/main/snake.gif" alt="Snake Game" width="500" height="200" />
+  </div>
 
 
 
