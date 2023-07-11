@@ -1,7 +1,7 @@
 
 # Olá! 👋 Bem-vindo(a) ao meu perfil do GitHub!
 
-[![Marcelo ishida Takeya](https://img.shields.io/badge/SeuNome-Cientista%20de%20Dados-brightgreen)](https://seu-site.com)
+[![Marcelo ishida Takeya](https://img.shields.io/badge/SeuNome-Cientista%20de%20Dados-brightgreen)](Marcelo_ishida_takeya)
 
 
 
@@ -33,6 +33,20 @@ Sou Marcelo ishida Takeya Cientista de Dados apaixonado por análise e visualiza
 - Horas de sono ontem: [![Horas de Sono](https://img.shields.io/badge/Horas%20de%20Sono-7%20horas-green)](https://seu-site.com)
 - Copos de café hoje: [![Café](https://img.shields.io/badge/Caf%C3%A9-3%20copos-yellow)](https://seu-site.com)
 - Linhas de código escritas hoje: [![Linhas de Código](https://img.shields.io/badge/Linhas%20de%20C%C3%B3digo-100%20LOC-blue)](https://seu-site.com)
+
+## 🔨 Progresso do Projeto
+
+- Projeto 1: ⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️ 10%
+- Projeto 2: ⬛️⬛️⬛️⬛️⬛️⬜️⬜️⬜️⬜️⬜️ 50%
+- Projeto 3: ⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️ 100%
+
+
+## 🔨 Progresso do Projeto
+
+- Projeto 1: █▁▁▁▁▁▁▁▁▁ 10%
+- Projeto 2: █████▁▁▁▁▁▁▁ 50%
+- Projeto 3: ██████████ 100%
+
 
 
 
