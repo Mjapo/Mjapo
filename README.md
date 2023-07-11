@@ -1,4 +1,3 @@
-### Hi there 👋
 
 # Olá! 👋 Bem-vindo(a) ao meu perfil do GitHub!
 
@@ -29,11 +28,18 @@ Sou Marcelo ishida Takeya Cientista de Dados apaixonado por análise e visualiza
 - [Projeto de Dados SEMANTIX ](https://github.com/Mjapo/ProjetoDados)
 - [Projeto com SQL ](https://github.com/Mjapo/ProjetoCreditoSql)
 
+
+![Gráfico 1](https://github.com/SeuNome/SeuNome/blob/main/animated_chart_1.gif)
+![Gráfico 2](https://github.com/SeuNome/SeuNome/blob/main/animated_chart_2.gif)
+![Gráfico 3](https://github.com/SeuNome/SeuNome/blob/main/animated_chart_3.gif)
+
+
+
+
 ## Contato
 
 Você pode me encontrar em várias plataformas. Vamos nos conectar!
 
 - LinkedIn: [Marcelo ishida Takeya](https://www.linkedin.com/in/marcelo-ishida-takeya-a8213897/)
-
 
 Fique à vontade para explorar meus repositórios e deixar sugestões ou feedbacks. Se você tiver alguma dúvida sobre ciência de dados, análise de dados ou qualquer outra coisa relacionada, não hesite em entrar em contato. Obrigado pela visita! 😊
