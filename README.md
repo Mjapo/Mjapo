@@ -1,8 +1,8 @@
 
 # Olá! 👋 Bem-vindo(a) ao meu perfil do GitHub!
 
-[![Seu Nome](https://img.shields.io/badge/SeuNome-Cientista%20de%20Dados-brightgreen)](https://seu-site.com)
-[![Linkedin](https://img.shields.io/badge/Linkedin-SeuNome-blue)](https://www.linkedin.com/in/seu-nome)
+[![Marcelo ishida Takeya](https://img.shields.io/badge/SeuNome-Cientista%20de%20Dados-brightgreen)](https://seu-site.com)
+[![Linkedin](https://www.linkedin.com/in/marcelo-ishida-takeya-a8213897/)
 
 
 Sou Marcelo ishida Takeya Cientista de Dados apaixonado por análise e visualização de dados. Estou constantemente explorando novas técnicas e ferramentas para obter insights valiosos a partir de conjuntos de dados complexos.
@@ -28,11 +28,11 @@ Sou Marcelo ishida Takeya Cientista de Dados apaixonado por análise e visualiza
 - [Projeto de Dados SEMANTIX ](https://github.com/Mjapo/ProjetoDados)
 - [Projeto com SQL ](https://github.com/Mjapo/ProjetoCreditoSql)
 
+  
 
-![Gráfico 1](https://github.com/SeuNome/SeuNome/blob/main/animated_chart_1.gif)
-![Gráfico 2](https://github.com/SeuNome/SeuNome/blob/main/animated_chart_2.gif)
-![Gráfico 3](https://github.com/SeuNome/SeuNome/blob/main/animated_chart_3.gif)
-
+![Gráfico 1](https://github.com/SeuNome/SeuNome/blob/main/chart1.png)
+![Gráfico 2](https://github.com/SeuNome/SeuNome/blob/main/chart2.png)
+![Gráfico 3](https://github.com/SeuNome/SeuNome/blob/main/chart3.png)
 
 
 
