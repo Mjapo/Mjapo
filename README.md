@@ -28,11 +28,14 @@ Sou Marcelo ishida Takeya Cientista de Dados apaixonado por análise e visualiza
 - [Projeto de Dados SEMANTIX ](https://github.com/Mjapo/ProjetoDados)
 - [Projeto com SQL ](https://github.com/Mjapo/ProjetoCreditoSql)
 
-## ⚡ Alguns Dados Interessantes
 
-- Horas de sono ontem: [![Horas de Sono](https://img.shields.io/badge/Horas%20de%20Sono-7%20horas-green)](https://seu-site.com)
-- Copos de café hoje: [![Café](https://img.shields.io/badge/Caf%C3%A9-3%20copos-yellow)](https://seu-site.com)
-- Linhas de código escritas hoje: [![Linhas de Código](https://img.shields.io/badge/Linhas%20de%20C%C3%B3digo-100%20LOC-blue)](https://seu-site.com)
+
+## 🚀 Produção de Código em Ação
+
+Aqui está um GIF mostrando a tela do computador durante um processo de produção de código:
+
+![Produção de Código](https://caminho/para/seu/gif.gif)
+
 
 ## 🔨 Progresso do Projeto
 
