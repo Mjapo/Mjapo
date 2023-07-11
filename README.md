@@ -29,12 +29,13 @@ Sou Marcelo ishida Takeya Cientista de Dados apaixonado por análise e visualiza
 - [Projeto com SQL ](https://github.com/Mjapo/ProjetoCreditoSql)
 
 
+## ⭐️ Deixe uma estrela
 
-## 🚀 Produção de Código em Ação
+Se você achou meu perfil interessante, ficaria muito grato se você pudesse deixar uma estrela no repositório.
 
-Aqui está um GIF mostrando a tela do computador durante um processo de produção de código:
+[![Estrela no GitHub](https://img.shields.io/github/stars/seu-usuario/seu-repositorio?style=social)](https://github.com/seu-usuario/seu-repositorio)
 
-![Produção de Código](https://caminho/para/seu/gif.gif)
+
 
 
 ## 🔨 Progresso do Projeto
