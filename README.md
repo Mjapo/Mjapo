@@ -2,7 +2,7 @@
 # Olá! 👋 Bem-vindo(a) ao meu perfil do GitHub!
 
 [![Marcelo ishida Takeya](https://img.shields.io/badge/SeuNome-Cientista%20de%20Dados-brightgreen)](https://seu-site.com)
-[![Linkedin](https://www.linkedin.com/in/marcelo-ishida-takeya-a8213897/)
+
 
 
 Sou Marcelo ishida Takeya Cientista de Dados apaixonado por análise e visualização de dados. Estou constantemente explorando novas técnicas e ferramentas para obter insights valiosos a partir de conjuntos de dados complexos.
@@ -28,10 +28,11 @@ Sou Marcelo ishida Takeya Cientista de Dados apaixonado por análise e visualiza
 - [Projeto de Dados SEMANTIX ](https://github.com/Mjapo/ProjetoDados)
 - [Projeto com SQL ](https://github.com/Mjapo/ProjetoCreditoSql)
 
-  <div align="center">
-  <img src="https://github.com/SeuNome/SeuNome/blob/main/snake.gif" alt="Snake Game" width="500" height="200" />
-  </div>
 
+
+![Gráfico 1](https://i.imgur.com/abcdefg.png)
+![Gráfico 2](https://i.imgur.com/hijklmn.png)
+![Gráfico 3](https://i.imgur.com/opqrstuv.png)
 
 
 ## Contato
