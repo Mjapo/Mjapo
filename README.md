@@ -2,9 +2,6 @@
 # Olá! 👋 Bem-vindo(a) ao meu perfil do GitHub!
 
 
-[![Marcelo ishida Takeya](https://img.shields.io/badge/SeuNome-Cientista%20de%20Dados-brightgreen)](Marcelo_ishida_takeya)
-
-
 Sou Marcelo ishida Takeya Cientista de Dados apaixonado por análise e visualização de dados. Estou constantemente explorando novas técnicas e ferramentas para obter insights valiosos a partir de conjuntos de dados complexos.
 
 ## Principais Áreas de Interesse
