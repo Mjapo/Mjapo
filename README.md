@@ -17,7 +17,7 @@ Sou Marcelo ishida Takeya Cientista de Dados apaixonado por análise e visualiza
 - Bibliotecas: Pandas, NumPy, SciPy, Scikit-Learn, TensorFlow, Keras, Matplotlib, Seaborn, Plotly
 - Ferramentas de visualização: Power BI
 - Bancos de dados: SQL
-- Outras ferramentas: Jupyter Notebook, Git, Docker
+- Outras ferramentas: Jupyter Notebook, VSCode 
 
 ## Projetos Destacados
 
